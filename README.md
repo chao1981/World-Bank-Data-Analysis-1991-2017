@@ -3,7 +3,7 @@ Examine the top 3 countries population-wise and analyze what are their pros and 
 
 ## Inspriration
 
-[World Bank data] (https://data.worldbank.org/country) is gold mine to support crucial management decisions that can show how countries are doing and fix issues to improve people's lives. I was curious to compare how India, China & United States compare on multiple metric of real-world importance and what are the real causes that differentiates the standard of living in all three countries.
+[World Bank data](https://data.worldbank.org/country) is gold mine to support crucial management decisions that can show how countries are doing and fix issues to improve people's lives. I was curious to compare how India, China & United States compare on multiple metric of real-world importance and what are the real causes that differentiates the standard of living in all three countries.
 
 ## Objective
 Comparing cross-country statistics about development and people's lives around the globe and show the progress society is making through data visualization.
