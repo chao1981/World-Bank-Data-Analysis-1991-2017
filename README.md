@@ -12,7 +12,7 @@ Comparing cross-country statistics about development and people's lives around t
 I have chosen 27 years time-series data starting 1991 - 2017. It includes three countries namely USA, India, China and average of World as a metric of comparison. Countries are compared on around 1500 metrics broken down by gender, age, employment sector, birth rate etc.
 
 ## Link to Nbviewer Python Notebook 
-[Click Here](http://nbviewer.jupyter.org/github/dkekre21/World-Bank-Data-Analysis-1991-2017/blob/master/Python%20Notebook/Project%202%20-World%20Bank%20Data%20Analysis%201991%20to%202017.ipynb#inspiration)
+[Click Here](http://nbviewer.jupyter.org/github/dkekre21/World-Bank-Data-Analysis-1991-2017/blob/master/Python%20Notebook/Project%202%20-World%20Bank%20Data%20Analysis%201991%20to%202017.ipynb)
 
 ## Tech-stack
 
