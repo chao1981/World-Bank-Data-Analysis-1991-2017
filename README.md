@@ -3,7 +3,11 @@ Examine the top 3 countries population-wise and analyze what are their trend and
 
 ## Inspriration
 
-[World Bank data](https://data.worldbank.org/country) is gold mine to support crucial management decisions that can show how countries are doing and fix issues to improve people's lives. I was curious to compare how India, China & United States compare on multiple metric of real-world importance and what are the real causes that differentiates the standard of living in all three countries.
+I was curious to compare how top 3 populated countries of the world are differentiated in the standard of living and sustenance. India, China & United States are the three countries with highest population and interestingly they are at different steps of nation development. Below is the analysis to compare them on multiple metrics of real-world importance that matter to people's lives.
+ 
+## Introduction to World Bank
+[World Bank](https://data.worldbank.org/country) is a financial institution that provides loans to countries for capital projects. Capital projects.
+> World Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates.[1] This statistical reference includes over 800 indicators covering more than 150 economies.
 
 ## Objective
 Comparing cross-country statistics about development and people's lives around the globe and show the progress society is making through data visualization.
