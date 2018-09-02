@@ -8,8 +8,13 @@ Examine the top 3 countries population-wise and analyze what are their trend and
 ## Objective
 Comparing cross-country statistics about development and people's lives around the globe and show the progress society is making through data visualization.
 
-## Data Description
+## Datasets Used
 I have chosen 27 years time-series data starting 1991 - 2017. It includes three countries namely USA, India, China and average of World as a metric of comparison. Countries are compared on around 1500 metrics broken down by gender, age, employment sector, birth rate etc.
+
+* [World Bank Metrics Data](https://github.com/dkekre21/World-Bank-Data-Analysis-1991-2017/blob/master/Datasets/API_Download_DS2_en_csv_v2_10077498.csv)
+* [World Population Data](https://github.com/dkekre21/World-Bank-Data-Analysis-1991-2017/blob/master/Datasets/WorldPopulation.csv)
+
+[Both datasets can also be directly downloaded from world bank website](https://data.worldbank.org/country)
 
 ## Link to Nbviewer Python Notebook 
 [Click Here](http://nbviewer.jupyter.org/github/dkekre21/World-Bank-Data-Analysis-1991-2017/blob/master/Python%20Notebook/Project%202%20-World%20Bank%20Data%20Analysis%201991%20to%202017.ipynb)
