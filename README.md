@@ -1,7 +1,7 @@
 # World-Bank-Data-Analysis-1991-2017
 Examine the top 3 countries population-wise and analyze what are their trend and pain-points.
 
-## Inspriration
+## Inspiration
 
 I was curious to compare how top 3 populated countries of the world are differentiated in the standard of living and sustenance. India, China & United States are the three countries with highest population and interestingly they are at different steps of nation development. Below is the analysis to compare them on multiple metrics of real-world importance that matter to people's lives.
  
